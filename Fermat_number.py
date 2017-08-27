@@ -1,5 +1,5 @@
 #! -*- coding:utf-8 -*-
-# This program finds a Fermat Number.
+# This program finds a solution of Fermat equation.
 # You input an integer n at the first.
 import sys
 import math
